@@ -6,19 +6,25 @@ Sou engenheiro de software com experiência em desenvolvimento fullstack, apaixo
 
 ## 🚀 Stack Principal
 
-- **Back-end:** Kotlin (Spring Boot), Java
-- **Front-end:** Angular, React, TypeScript
-- **DevOps & Infra:** Docker, GitHub Actions, Git, CI/CD básico
-- **Outros:** Swagger/OpenAPI, RESTful APIs, Documentação com Markdown e ferramentas visuais
 
----
+### 🧩 Back-end
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-## 🧠 Interesses
+### 🎨 Front-end
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- Design e arquitetura de software (DDD, Clean Architecture, Hexagonal)
-- Documentação técnica clara, acessível e automatizada
-- Padrões de projeto e boas práticas de desenvolvimento
-- Compartilhar conhecimento e escrever sobre tecnologia
+### ⚙️ DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📄 Outros
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ---
 
@@ -36,5 +42,3 @@ Atualmente estou me aprofundando em:
 Fique à vontade para me chamar por aqui no GitHub ou via [LinkedIn]([https://www.linkedin.com/])(https://www.linkedin.com/in/matheus-henrique-732699139/).
 
 ---
-
-⭐ Se você compartilha interesses parecidos, me siga para trocarmos ideias!
