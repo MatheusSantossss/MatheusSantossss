@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Matheus Henrique
 
-<!--
-**MatheusSantossss/MatheusSantossss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou engenheiro de software com experiência em desenvolvimento fullstack, apaixonado por **arquitetura de sistemas**, **documentação técnica** e por construir soluções escaláveis e bem estruturadas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Stack Principal
+
+- **Back-end:** Kotlin (Spring Boot), Java
+- **Front-end:** Angular, React, TypeScript
+- **DevOps & Infra:** Docker, GitHub Actions, Git, CI/CD básico
+- **Outros:** Swagger/OpenAPI, RESTful APIs, Documentação com Markdown e ferramentas visuais
+
+---
+
+## 🧠 Interesses
+
+- Design e arquitetura de software (DDD, Clean Architecture, Hexagonal)
+- Documentação técnica clara, acessível e automatizada
+- Padrões de projeto e boas práticas de desenvolvimento
+- Compartilhar conhecimento e escrever sobre tecnologia
+
+---
+
+## 📘 Últimos estudos
+
+Atualmente estou me aprofundando em:
+- Princípios de arquitetura de software em sistemas distribuídos
+- Testes automatizados e TDD
+- Melhores práticas para documentação de APIs e sistemas
+
+---
+
+## 📫 Como me encontrar
+
+Fique à vontade para me chamar por aqui no GitHub ou via [LinkedIn](https://www.linkedin.com) (adicione o seu link!).
+
+---
+
+⭐ Se você compartilha interesses parecidos, me siga para trocarmos ideias!
