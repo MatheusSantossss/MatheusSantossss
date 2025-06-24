@@ -1,6 +1,6 @@
 # Eai me chamo Matheus
 
-Sou engenheiro de software com experiência em desenvolvimento fullstack, apaixonado por **arquitetura de sistemas**, **documentação técnica** e por construir soluções escaláveis e bem estruturadas.
+Sou engenheiro de software com experiência em desenvolvimento web fullstack, sou mais chegado em arquitetura de software e devops mas a vida me levou pro desenvolvimento web e é o que faço atualmente.
 
 ---
 
