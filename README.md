@@ -33,7 +33,7 @@ Atualmente estou me aprofundando em:
 
 ## 📫 Como me encontrar
 
-Fique à vontade para me chamar por aqui no GitHub ou via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/matheus-henrique-732699139/)) (adicione o seu link!).
+Fique à vontade para me chamar por aqui no GitHub ou via [LinkedIn]([https://www.linkedin.com/in/matheus-henrique-732699139/]) (adicione o seu link!).
 
 ---
 
