@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Matheus Henrique
+# Eai me chamo Matheus
 
 Sou engenheiro de software com experiência em desenvolvimento fullstack, apaixonado por **arquitetura de sistemas**, **documentação técnica** e por construir soluções escaláveis e bem estruturadas.
 
