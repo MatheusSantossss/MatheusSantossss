@@ -20,7 +20,6 @@ Sou engenheiro de software com experiência em desenvolvimento fullstack, apaixo
 ### ⚙️ DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📄 Outros
@@ -33,6 +32,5 @@ Sou engenheiro de software com experiência em desenvolvimento fullstack, apaixo
 ## 📘 Últimos estudos
 
 Atualmente estou me aprofundando em:
-- Princípios de arquitetura de software em sistemas distribuídos
-- Testes automatizados e TDD
+- Documentações de arquitetura de software
 - Melhores práticas para documentação de APIs e sistemas
